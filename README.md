@@ -1,4 +1,5 @@
-![Aether Contributor](https://img.shields.io/badge/Aether_Infra-Project_Lead-7b2cbf?style=for-the-badge&logo=cpu&logoColor=white)
+![Project Lead](https://img.shields.io/badge/Aether_Infra-Project_Lead-7b2cbf?style=for-the-badge&logo=cpu&logoColor=white)
+![Core Maintainer](https://img.shields.io/badge/Aether_Infra-Core_Maintainer-5a189a?style=for-the-badge&logo=cpu&logoColor=white)
 
 # Hi, I'm Aritrash 
 
