@@ -1,3 +1,5 @@
+![Aether Contributor](https://img.shields.io/badge/Aether_Infra-Senior_Maintainer-7b2cbf?style=for-the-badge&logo=arm)
+
 # Hi, I'm Aritrash 
 
 ### Systems & Kernel Developer | Low-Level Engineer
