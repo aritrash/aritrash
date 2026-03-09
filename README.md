@@ -1,5 +1,5 @@
-![Project Lead](https://img.shields.io/badge/Aether_Infra-Project_Lead-6b1e23?style=for-the-badge&logo=microchip&logoColor=white)
-![Core Maintainer](https://img.shields.io/badge/Aether_Infra-Core_Maintainer-2d1e2f?style=for-the-badge&logo=microchip&logoColor=white)
+![Project Lead](https://img.shields.io/badge/Aether_Infra-Project_Lead-6b1e23?style=for-the-badge&logo=gnubash&logoColor=white)
+![Core Maintainer](https://img.shields.io/badge/Aether_Infra-Core_Maintainer-2d1e2f?style=for-the-badge&logo=gnubash&logoColor=white)
 
 # Hi, I'm Aritrash 
 
