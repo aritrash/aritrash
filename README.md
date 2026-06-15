@@ -1,5 +1,6 @@
 ![Project Lead](https://img.shields.io/badge/Aether_Infra-Project_Lead-6b1e23?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Core Maintainer](https://img.shields.io/badge/Aether_Infra-Core_Maintainer-2d1e2f?style=for-the-badge&logo=gnubash&logoColor=white)
+![DTPU](https://img.shields.io/badge/DTPU-Distributed_Systems_Engineer-0D47A1?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 # Hi, I'm Aritrash Sarkar
 
